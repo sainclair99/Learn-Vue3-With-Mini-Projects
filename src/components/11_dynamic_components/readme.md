@@ -1,0 +1,2 @@
+## Definition
+Dynamic components refer to the ability to dynamically switch between different components based on certain `conditions` or `user interactions`. This achieved using the component element and the is attribute.
